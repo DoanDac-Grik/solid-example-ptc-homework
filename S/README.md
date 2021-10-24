@@ -1,0 +1,2 @@
+Trong class Employee, có quá nhiều các chức năng như: tính tổng ngày nghỉ phép còn lại, tính tổng lương được nhận của tháng, in thông tin nhân viên. Chỉ cần thay đổi cách tính ngày phép, hay cách tính lương, thêm bớt các thuộc tính mới,... ta sẽ phải thay đổi class này
+->Cách giải quyết: ta chia ra làm nhiều class, mỗi class đảm nhận 1 chức năng riêng như class tính toán phúc lợi cho nhân viên, class chuyên về việc in ấn, xuất file

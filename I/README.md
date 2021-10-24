@@ -1,0 +1,1 @@
+Khi ta mở quán ăn theo cá nhân, một mình ta sẽ xử 1 lúc nhiều việc bao gồm nấu nướng, phục vụ, dọn dẹp, quản lí tài chính...Thay vì cần 1 superman ôm hết tất cả các công việc, ta có thể chia thành các bộ phận nhỏ như đầu bếp, lễ tân, tạp vụ. 

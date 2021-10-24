@@ -1,0 +1,2 @@
+Ta cần tính lương thưởng của một Developer, nhưng khi ta cần tính thêm lương thưởng của QC thì ta lại cần thêm nhiều đối tượng trong class Employee. Class high-level đang phụ thuộc vào class low-level là Devloper. Theo principle, các module này không nên phụ thuộc vào nhau và cần giao tiếp qua interface
+=>Tạo interface Employee, tạo implemention của Employee
